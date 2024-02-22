@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MenuComida</string>
+    <string name="desayunoa">Desayunos en familia</string>
+    <string name="desayunob">$130</string>
+    <string name="desayunoc">¡Ahorra 25%!</string>
+    <string name="hamburgera">Hamburguesa extra grande</string>
+    <string name="hamburgerb">$180</string>
+    <string name="hamburgerc">¡Ahorra 20%!</string>
+    <string name="pizzaa">Pizzas a la orden</string>
+    <string name="pizzab">$220</string>
+    <string name="pizzac">¡Ahorra 15%!</string>
+    <string name="postrea">Disfruta de los postres</string>
+    <string name="postreb">$85</string>
+    <string name="postrec">¡Ahorra 30%!</string>
+    <string name="pozolea">Cualquier día es noche mexicana con Pozole</string>
+    <string name="pozoleb">$90</string>
+    <string name="pozolec">¡Ahorra 10%!</string>
+    <string name="tacosa">Tacos de guisado</string>
+    <string name="tacosb">$30 c/u</string>
+    <string name="tacosc">¡Ahorra 15%!</string>
+</resources>
