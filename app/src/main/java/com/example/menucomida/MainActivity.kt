@@ -91,14 +91,14 @@ fun MenuCard(platillo: Platillo, modifier: Modifier = Modifier){
                     fontWeight = FontWeight.Bold,
                     modifier = Modifier.padding(1.dp)
                         .fillMaxSize(),
-                    style = MaterialTheme.typography.headlineLarge
+                    style = MaterialTheme.typography.titleLarge
                 )
                 Text(
                     text = LocalContext.current.getString(platillo.stringResourceId+1),
                     textAlign = TextAlign.Center,
                     modifier = Modifier.padding(1.dp)
                         .fillMaxSize(),
-                    style = MaterialTheme.typography.titleLarge
+                    style = MaterialTheme.typography.bodyLarge
                 )
                 Text(
                     text = LocalContext.current.getString(platillo.stringResourceId+2),
